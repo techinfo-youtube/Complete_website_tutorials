@@ -1,0 +1,10 @@
+body{
+	background-color: black;
+}
+a {
+	color: white;
+}
+a:hover{
+	color: purple;
+	font-weight: bold;
+}
